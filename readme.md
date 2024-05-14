@@ -61,9 +61,13 @@ Description of the project in details.
 
 Guiding Question:
 - What is the project
+  - WD seatwork 2 about formulating html
 - Whats the purpose
+  - Learning new things about HTML
 - What are key components
+  - HTML
 - What technology used and how it is used
+  - Visual Studio Code and Github
 
 ### Key Components
 <!-- TODO: List of Key Components -->
