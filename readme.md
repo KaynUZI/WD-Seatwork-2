@@ -6,21 +6,21 @@
 <div align="center">
   <a href="https://github.com/zyx-0314/">
   <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
+    <img src="[./assets/img/nyebe_white.png](https://scontent-mnl1-2.xx.fbcdn.net/v/t39.30808-6/438241388_10223670467093245_3320767921597876996_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeEpnstH6f7599AjWZMxO-s0Guz8RqOalx0a7PxGo5qXHXKQPdWCw5PeJKYd-vVUgak&_nc_ohc=6l-aI15TPwIQ7kNvgFW_XWD&_nc_oc=AdjbZAkRn7NCvxu54ym4HjRxv9SUDtlYic_GBUcp-eu-abK_gSJnxyOrP4CBg9eLUXo&_nc_ht=scontent-mnl1-2.xx&oh=00_AYCDv8X1nz8S0Y2-dbp9gE1fm2KuZjVV3EFeeYUVuZoxhg&oe=6649398D)" alt="Nyebe" width="130" height="100">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Title</h3>
+  <h3 align="center">Formulating HTML</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  Short Description. (Optional)
+  Formulating HTML involves creating the structure and content of web pages using the HyperText Markup Language (HTML). This process includes writing HTML code to define elements such as headings, paragraphs, links, images, lists, and tables. Each element is enclosed within tags, which tell the web browser how to display the content.
 </div>
 
 <br />
 
 <!-- TODO: Change the zyx-0314 into your github username  -->
 <!-- TODO: Change the WD-Template-Project into the same name of your folder -->
-![](https://visit-counter.vercel.app/counter.png?page=zyx-0314/WD-Template-Project)
+![](https://visit-counter.vercel.app/counter.png?page=KaynUZI/WD-Seatwork-2)
 
 ---
 
